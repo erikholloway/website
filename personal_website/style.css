@@ -1,0 +1,32 @@
+:root{
+     --clr-primary: #4a6ac0;
+
+}
+
+.ion {
+    color: var(--clr-primary);
+}
+
+.shop-body {
+    background-image: url(Phones.png);
+}
+
+.home-body{
+    background-color: #113df1;
+}
+
+.partners-body{
+    background-color: #113df1;
+    color: var(--clr-primary)
+
+}
+
+.aboutus-body{
+    background-image: url(phoneonplant.png);
+    color: var(--clr-primary);
+}
+
+.Samsung {
+    position: absolute;
+    scale: 2;
+}
