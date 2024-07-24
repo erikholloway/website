@@ -1,0 +1,65 @@
+:root{
+     --clr-primary: #4a6ac0;
+     --clr-seconday: #113df1
+
+
+}
+
+.ion {
+    color: var(--clr-primary);
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.shop-body {
+    background-image: url(Phones.png);
+}
+
+.home-body{
+    background-color: #113df1;
+}
+
+.partners-body{
+    background-color: #113df1;
+    
+
+}
+
+.aboutus-body{
+    background: var(--clr-seconday);
+}
+
+.title{
+    font-family: "Jacques Francois Shadow", serif;
+}
+
+.basictext{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.basictitle{
+    font-family: "Teko", sans-serif;
+}
+
+.abouttext{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: left;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    position: fixed;
+    top: 0;
+    width: 150px;
+    height: 75%;
+    background-color: white;
+    right: 0;
+}
+
+.sidebar a:hover
+{
+    background-color: #4a6ac0;
+}
